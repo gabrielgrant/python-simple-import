@@ -1,0 +1,10 @@
+Python's missing import functions
+
+Implements import_item() and from_x_import_y() functions.
+
+Both take strings specifying what you want to import, and return
+the actual item. Yes, they're brief, but I find myself needing them
+enought that I packaged them up. Why aren't they in Python core? Who knows!
+
+
+
